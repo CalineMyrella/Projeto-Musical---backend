@@ -24,7 +24,7 @@ Abaixo está o detalhamento de cada arquivo desenvolvido nesta etapa de integra�
   * `cadastro_artista.php`: Formulário que envia os dados do novo artista diretamente para o banco de dados via método POST.
   * `cadastro_musica.php`: Interface para inserção de novas faixas associadas aos artistas cadastrados no banco.
   * `listagem_musicas.php`: Página que realiza consultas (SELECT) no banco de dados para renderizar a tabela de músicas dinamicamente na tela.
-  * `styles.css`: Mantém toda a identidade visual, estruturação e responsividade do sistema[cite: 7].
+  * `styles.css`: Mantém toda a identidade visual, estruturação e responsividade do sistema.
 
 # 🚀 Como Executar o Projeto
 
